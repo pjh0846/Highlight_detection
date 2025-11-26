@@ -1,0 +1,15 @@
+torch>=2.0.0
+torchvision
+torchaudio
+transformers
+decord
+librosa
+moviepy
+numpy
+pandas
+scikit-learn
+scipy
+joblib
+fastapi
+uvicorn
+python-multipart
